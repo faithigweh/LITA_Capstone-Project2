@@ -25,7 +25,7 @@
 
 ## Getting Started
 
-Your goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals. 
+Our goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals. 
 
 The final deliverable is a Power BI dashboard that presents your analysis.
 
@@ -53,8 +53,9 @@ Data
 
 find subscription patterns. 
 
-Calculate the average subscription duration
- identify the most popular subscription types. 
+Calculate the average subscription duration.
+
+Identify the most popular subscription types. 
 
 calculate total revenue by subscription type. 
 
