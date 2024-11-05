@@ -4,21 +4,24 @@
 
 ## Table of Content
 
-Getting Started
+[Getting Started](#Getting-Started,).
 
-Goal
+[Tools Used](#Tools-Used).
 
-Tools Used
+[Initial exploration](#Initial-exploration).
 
-Initial exploration of Customer data with Excel
+[Loading Data](#Loading-Data).
 
-Loading Data
+[Data Processing](#Data-Processing).
 
-Data Processing
+[Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA)).
 
-Exploratory Data Analysis (EDA)
+[Subscription Analysis](#Subscription-Analysis).
 
-Visualization
+[Customer Analysis](#Customer-Analysis).
+
+[Visualization](#Visualization).
+[Conclusion](#Conclusion).
 
 ## Getting Started
 
@@ -78,8 +81,6 @@ Pivot tables were used in Excel and Power BI dashboard were used to summarize th
 ## Conclusion
 
 Our data analysis of Customer data has provided valuable insights that can guide decision-making on the business. These include the identification of  subscription patterns,  customer behavior and more. 
-.
-
 
 
 
